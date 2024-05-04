@@ -1,0 +1,22 @@
+{
+    "name": "sprite.animations.lottie",
+    "displayName": "Lottie: 2D animation prefabs",
+    "version": "1.0.0",
+    "unity": "2019.2",
+    "description": "This package is created by Anupam Chauhan as a task assigned during interview at ValueLabs. All three animations are created in Unity by me. Images and sprites were downloaded from somewebsites and Unity asset store. Two animations are put inside runtime folder while one animation can be imported as preview in samples folder in the main asset folder of Unity.",
+    "dependencies": {
+
+    },
+    "author": {
+        "name": "Anupam Chauhan",
+        "email": "anupamchauhan504@gmail.com",
+        "url": "www.google.com"
+    },
+    "samples": [
+            {
+                "displayName": "Lottie 2D Animation Samples",
+                "description": "One example, rest can be found in runtime folder",
+                "path": "Samples~"
+            }
+    ]
+}
